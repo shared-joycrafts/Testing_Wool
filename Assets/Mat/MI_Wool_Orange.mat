@@ -59,9 +59,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Normal_Str: 4
+    - _AO_Float: 1
+    - _Metallic: 0
+    - _Normal_Str: 7.32
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Smoothness: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 0.322, b: 0.14199996, a: 1}
   m_BuildTextureStacks: []
