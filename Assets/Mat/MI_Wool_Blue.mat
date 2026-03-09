@@ -61,7 +61,7 @@ Material:
     m_Floats:
     - _AO_Float: 1
     - _Metallic: 0
-    - _Normal_Str: 7.32
+    - _Normal_Str: 7.07
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0
