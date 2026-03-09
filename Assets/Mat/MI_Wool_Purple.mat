@@ -59,9 +59,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Normal_Str: 5.8
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _BaseColor: {r: 0.82184327, g: 0.6462264, b: 1, a: 1}
   m_BuildTextureStacks: []
-  m_AllowLocking: 1
