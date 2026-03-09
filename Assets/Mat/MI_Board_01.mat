@@ -7,13 +7,13 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MI_Board
-  m_Shader: {fileID: -6465566751694194690, guid: 0a692e34b39dfcc47a6354a81d9761c6, type: 3}
-  m_Parent: {fileID: 0}
+  m_Name: MI_Board_01
+  m_Shader: {fileID: -6465566751694194690, guid: 22f2a17a7f6dda24eafe456ee069e671, type: 3}
+  m_Parent: {fileID: 2100000, guid: fb07e73b7326bdb4d8c62d8efbac2365, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -23,33 +23,11 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs:
-    - _Texture:
-        m_Texture: {fileID: 2800000, guid: bb2dfdbedeb3298418f133435131e704, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Texture_02:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_Lightmaps:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_LightmapsInd:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - unity_ShadowMasks:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+    m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - _QueueControl: 0
-    - _QueueOffset: 0
+    m_Floats: []
     m_Colors:
-    - _BaseColor: {r: 0.752, g: 0.6542713, b: 0.554976, a: 1}
+    - _BaseColor: {r: 0.517, g: 0.43586144, b: 0.33708403, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6889598348156542916
 MonoBehaviour:
