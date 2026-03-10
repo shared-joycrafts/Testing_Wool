@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MI_Wool_DarkBlue
+  m_Name: MI_Wool_Turquoise
   m_Shader: {fileID: -6465566751694194690, guid: bc60b6425ce39e540acb41889c335ecd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -61,10 +61,10 @@ Material:
     m_Floats:
     - _AO_Float: 1
     - _Metallic: 0
-    - _Normal_Str: 6.15
+    - _Normal_Str: 5.81
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0
     m_Colors:
-    - _BaseColor: {r: 0, g: 0.50621754, b: 0.9056604, a: 1}
+    - _BaseColor: {r: 1, g: 0.4481132, b: 0.60579455, a: 1}
   m_BuildTextureStacks: []
